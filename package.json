@@ -2,6 +2,7 @@
   "name": "shoppy",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shoppy1234.netlify.app",
   "dependencies": {
     "@tanstack/react-query": "^5.64.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -45,6 +46,5 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.17"
-  },
-  "homepage": "https://shoppy1234.netlify.app"
+  }
 }
