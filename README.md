@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+<aside>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 리액트 쇼핑몰 프로젝트 
 
-## Available Scripts
+**개요**
 
-In the project directory, you can run:
+- **기간**: 총 4주 (2024.12.16 ~ 2025.01.07)
+- **팀 구성**: 개인 프로젝트 
+- **기술 스택**: HTML,CSS,JavaScript,React 
 
-### `yarn start`
+**구현 기능**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Firebase Authentication을 활용하여 OAuth 로그인 기능(Google, Github 등) 구현
+- React Query를 적용하여 비동기 데이터 관리 최적화, 성능 향상 및 캐싱을 통한 API 호출 최소화
+- Firebase Firestore를 이용한 실시간 데이터 동기화 및 관리
+- Tailwind CSS를 사용해 반응형 UI 구축 및 디자인 일관성 유지
+- 상품 CRUD 기능을 구현하여 관리자 페이지에서 상품 추가/수정/삭제 가능하도록 개발
+- 카트 기능을 통해 사용자가 원하는 상품을 장바구니에 담고 구매 가능
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**특이사항**
+    
+- **문제 해결 및 의사결정 능력**
+  
+   - Firebase 관련 인증 및 보안 설정 문제를 admin 설정으로 해결하며, 안전한 로그인 시스템 구축
 
-### `yarn test`
+   - React Query 버전 이슈로 인한 쿼리 수정 
+    
+    
+- **기술 학습 및 사후 관리 역량**
+    
+  리액트 프로젝트와 백엔드 CORS를 통하여 연결하여, 최종 프로젝트 할용  
+      
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**참고 링크**
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **GitHub**: [Shoppy 프로젝트](https://github.com/SongGeonHo/shoppy)]
+- **TailWind**: [TailWind](https://tailwindcss.com/)
+- **Tanstack**: [TankStack](https://tanstack.com/start/latest)
+- **Firebase**: [Firebase] (https://firebase.google.com/?_gl=1*fsh35p*_up*MQ..*_ga*NjE2MjYwMDM5LjE3Mzk5MzI4NDA.*_ga_CW55HF8NVT*MTczOTkzMjg0MC4xLjAuMTczOTkzMjg0MC4wLjAuMA..&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu2-xf1mLNTv25gLw8fH_qyWKEz_3npb2jjuNVBgyCDN_s1_gRyfzXsBoCZhYQAvD_BwE&gclsrc=aw.ds)
+</aside>
