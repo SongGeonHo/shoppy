@@ -2,6 +2,12 @@
 
 ### 리액트 쇼핑몰 프로젝트 
 
+배포: https://youtubeminiproject.netlify.app/
+
+![스크린샷 2025-02-19 143640](https://github.com/user-attachments/assets/643396b9-6b45-4edc-8185-e0d20f53e0e1)
+![스크린샷 2025-02-19 143843](https://github.com/user-attachments/assets/dda1b468-87b5-4000-bcb7-bb76fff5e7bc)
+![스크린샷 2025-02-19 145642](https://github.com/user-attachments/assets/0ada383e-2915-414e-8825-55d29950deca)
+
 **개요**
 
 - **기간**: 총 4주 (2024.12.16 ~ 2025.01.07)
