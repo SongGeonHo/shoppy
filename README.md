@@ -33,7 +33,7 @@
 
 **참고 링크**
 
-- **GitHub**: [Shoppy 프로젝트](https://github.com/SongGeonHo/shoppy)]
+- **GitHub**: [Shoppy 프로젝트](https://github.com/SongGeonHo/shoppy)
 - **TailWind**: [TailWind](https://tailwindcss.com/)
 - **Tanstack**: [TankStack](https://tanstack.com/start/latest)
 - **Firebase**: [Firebase](https://firebase.google.com/_gl=1*fsh35p*_up*MQ..*_ga*NjE2MjYwMDM5LjE3Mzk5MzI4NDA.*_ga_CW55HF8NVT*MTczOTkzMjg0MC4xLjAuMTczOTkzMjg0MC4wLjAuMA..&gclid=CjwKCAiA-Oi7BhA1EiwA2rIu2-xf1mLNTv25gLw8fH_qyWKEz_3npb2jjuNVBgyCDN_s1_gRyfzXsBoCZhYQAvD_BwE&gclsrc=aw.ds)
